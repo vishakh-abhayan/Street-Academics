@@ -145,7 +145,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: 5px;
 }
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: #000000;
+  color: #d2d2d2;
 }
 .navbar .dropdown ul {
   display: block;
@@ -330,6 +330,9 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
   text-transform: uppercase;
 }
+#hero .social-links{
+  font-size: 35px;
+}
 #hero .btn-get-started {
   font-family: "Montserrat", sans-serif;
   text-transform: uppercase;
@@ -385,11 +388,11 @@ section {
   text-transform: uppercase;
   margin-bottom: 15px;
   padding-bottom: 0;
-  color: #151515;
+  color: #ffffff;
 }
 .section-title p {
   margin-bottom: 0;
-  color: #aeaeae;
+  color: #fffbfb;
 }
 
 /*--------------------------------------------------------------
