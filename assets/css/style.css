@@ -431,7 +431,7 @@ section {
 .services .icon-box i {
   font-size: 48px;
   float: left;
-  color: #7cc576;
+  color: #dc3545;
 }
 .services .icon-box p {
   font-size: 15px;
@@ -450,7 +450,7 @@ section {
 --------------------------------------------------------------*/
 .featured {
   padding: 40px 0 0 0;
-  background: white;
+  background: rgb(0, 0, 0);
 }
 .featured .nav-tabs {
   border: 0;
@@ -458,7 +458,7 @@ section {
 .featured .nav-link {
   border: 0;
   padding: 20px;
-  color: #151515;
+  color: #ffffff;
   transition: 0.3s;
 }
 .featured .nav-link h4 {
@@ -467,7 +467,7 @@ section {
   transition: 0.3s;
 }
 .featured .nav-link:hover h4 {
-  color: #7cc576;
+  color: #ffffff;
 }
 .featured .nav-link p {
   font-size: 14px;
@@ -477,7 +477,7 @@ section {
   box-shadow: 0px 0 25px rgba(0, 0, 0, 0.08);
 }
 .featured .nav-link.active h4 {
-  color: #7cc576;
+  color:  #dc3545;
 }
 .featured .tab-pane.active {
   -webkit-animation: slide-down 0.5s ease-out;
