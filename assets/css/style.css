@@ -722,7 +722,7 @@ section {
   border-radius: 4px;
 }
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  background: #7cc576;
+  background: #c57676;
   color: #fff;
 }
 .portfolio #portfolio-flters li:last-child {
@@ -999,7 +999,7 @@ section {
 # Team
 --------------------------------------------------------------*/
 .team {
-  background: #fff;
+  background: rgb(0, 0, 0);
   padding: 60px 0;
 }
 .team .member {
