@@ -473,12 +473,15 @@ section {
 .featured .nav-link p {
   font-size: 14px;
   margin-bottom: 0;
+  color: #fff;
 }
 .featured .nav-link.active {
   box-shadow: 0px 0 25px rgba(0, 0, 0, 0.08);
+  background-color: #dc3545;
+  color: rgb(0, 0, 0);
 }
 .featured .nav-link.active h4 {
-  color:  #dc3545;
+  color:  #ffffff;
 }
 .featured .tab-pane.active {
   -webkit-animation: slide-down 0.5s ease-out;
