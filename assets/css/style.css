@@ -330,21 +330,17 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
   text-transform: uppercase;
 }
-#hero .social-links{
-  font-size: 35px;
-}
-#hero .btn-get-started {
+#hero .social-links {
   font-family: "Montserrat", sans-serif;
   text-transform: uppercase;
   font-weight: 400;
-  font-size: 16px;
+  font-size: 40px;
   letter-spacing: 1px;
   display: inline-block;
   padding: 14px 30px;
   border-radius: 3px;
   margin: 10px;
   color: #fff;
-  background: #dc3545;
 }
 #hero .btn-get-started:hover {
   transition: 0.5s;
@@ -1500,4 +1496,9 @@ section {
   text-align: center;
   font-size: 13px;
   padding-top: 5px;
+}
+.brand{
+  font-weight: bold;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 60px;
 }
