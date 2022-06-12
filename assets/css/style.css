@@ -433,12 +433,12 @@ section {
   float: left;
   color: #dc3545;
 }
-.services .icon-box p {
+.services  p {
   font-size: 15px;
-  color: #959595;
-  margin-left: 60px;
-  line-height: 50px;
+  color: #ffffff;
+  line-height: 30px;
 }
+
 .services .image {
   background-position: center center;
   background-repeat: no-repeat;
