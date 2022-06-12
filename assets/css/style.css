@@ -423,7 +423,7 @@ section {
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
-.services .icon-box h4 {
+.services .icon-box h3 {
   font-size: 20px;
   font-weight: 700;
   margin: 5px 0 10px 60px;
@@ -437,6 +437,7 @@ section {
   font-size: 15px;
   color: #959595;
   margin-left: 60px;
+  line-height: 50px;
 }
 .services .image {
   background-position: center center;
@@ -576,7 +577,7 @@ section {
   display: none;
 }
 .why-us .accordion-list a.collapsed {
-  color: #343a40;
+  color: #ffffff;
 }
 .why-us .accordion-list a.collapsed:hover {
   color: #dc3545;
