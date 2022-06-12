@@ -504,7 +504,7 @@ section {
 # Why Us
 --------------------------------------------------------------*/
 .why-us {
-  background: whitesmoke;
+  background: rgb(0, 0, 0);
   padding: 0;
 }
 .why-us .content {
@@ -557,7 +557,7 @@ section {
   cursor: pointer;
 }
 .why-us .accordion-list span {
-  color: #7cc576;
+  color: #dc3545;
   font-weight: 600;
   font-size: 18px;
   padding-right: 10px;
@@ -579,7 +579,7 @@ section {
   color: #343a40;
 }
 .why-us .accordion-list a.collapsed:hover {
-  color: #7cc576;
+  color: #dc3545;
 }
 .why-us .accordion-list a.collapsed .icon-show {
   display: inline-block;
@@ -590,7 +590,7 @@ section {
 .why-us .play-btn {
   width: 94px;
   height: 94px;
-  background: radial-gradient(#7cc576 50%, rgba(124, 197, 118, 0.4) 52%);
+  background: radial-gradient(#dc3545 50%, rgba(197, 118, 118, 0.4) 52%);
   border-radius: 50%;
   display: block;
   position: absolute;
@@ -629,13 +629,13 @@ section {
   animation-timing-function: steps;
   opacity: 1;
   border-radius: 50%;
-  border: 5px solid rgba(124, 197, 118, 0.7);
+  border: 5px solid rgba(197, 118, 118, 0.7);
   top: -15%;
   left: -15%;
   background: rgba(198, 16, 0, 0);
 }
 .why-us .play-btn:hover::after {
-  border-left: 15px solid #7cc576;
+  border-left: 15px solid #dc3545;
   transform: scale(20);
 }
 .why-us .play-btn:hover::before {
